@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1030571124984",
+    "firebase_url": "https://fir-crashcourse-4dd75.firebaseio.com",
+    "project_id": "fir-crashcourse-4dd75",
+    "storage_bucket": "fir-crashcourse-4dd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030571124984:android:307b800ed5a795f909330d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030571124984-kf6cs4f6eemicvcnos9hfqn6rqpa34lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "0be3a95e54a8bc288b8961ac20acf77ef01bb290"
+          }
+        },
+        {
+          "client_id": "1030571124984-sjpi6patg1bh6k91sm24bgs2ajtmb79v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXjNPi7wZzhrsLRuJjW8KdeFbZvZ391S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030571124984-sjpi6patg1bh6k91sm24bgs2ajtmb79v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
