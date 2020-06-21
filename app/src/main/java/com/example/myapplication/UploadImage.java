@@ -95,6 +95,7 @@ public class UploadImage extends AppCompatActivity {
         MimeTypeMap mimeTypeMap = MimeTypeMap.getSingleton();
         return mimeTypeMap.getExtensionFromMimeType(contentResolver.getType(uri));
     }
+    //upload image function
     private void Uploadfile(){
         if (imageUri != null){
             StorageReference fileStorage = storageReference.child(System.currentTimeMillis()
